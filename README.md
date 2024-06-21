@@ -1,2 +1,2 @@
-# SanatGalerileri
+# SanatGalerisi
  Yazılım Mimarileri Otomasyon Ödevi

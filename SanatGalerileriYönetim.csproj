@@ -1,0 +1,401 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{11E3A576-355D-4F1B-B44B-D90C471D718F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SanatGalerileriYönetim</RootNamespace>
+    <AssemblyName>SanatGalerileriYönetim</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Anasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Anasayfa.Designer.cs">
+      <DependentUpon>Anasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ArtnivoGaleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ArtnivoGaleri.Designer.cs">
+      <DependentUpon>ArtnivoGaleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Artnivogalerihakkımızda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Artnivogalerihakkımızda.Designer.cs">
+      <DependentUpon>Artnivogalerihakkımızda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Artnivogalerisanatçıları.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Artnivogalerisanatçıları.Designer.cs">
+      <DependentUpon>Artnivogalerisanatçıları.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Artnivogalerisergileri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Artnivogalerisergileri.Designer.cs">
+      <DependentUpon>Artnivogalerisergileri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ar_enstalasyon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ar_enstalasyon.Designer.cs">
+      <DependentUpon>Ar_enstalasyon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ar_Heykelsergisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ar_Heykelsergisi.Designer.cs">
+      <DependentUpon>Ar_Heykelsergisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ar_insanlaştırma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ar_insanlaştırma.Designer.cs">
+      <DependentUpon>Ar_insanlaştırma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ar_sevinçsizkahkaha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ar_sevinçsizkahkaha.Designer.cs">
+      <DependentUpon>Ar_sevinçsizkahkaha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DokuSanatGalerisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DokuSanatGalerisi.Designer.cs">
+      <DependentUpon>DokuSanatGalerisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DokuSanatGalerisiHakkında.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DokuSanatGalerisiHakkında.Designer.cs">
+      <DependentUpon>DokuSanatGalerisiHakkında.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DokuSanatGalerisiSanatçıları.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DokuSanatGalerisiSanatçıları.Designer.cs">
+      <DependentUpon>DokuSanatGalerisiSanatçıları.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DokuSanatGalerisiSergileri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DokuSanatGalerisiSergileri.Designer.cs">
+      <DependentUpon>DokuSanatGalerisiSergileri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DSG_KeremKirazResimSergisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DSG_KeremKirazResimSergisi.Designer.cs">
+      <DependentUpon>DSG_KeremKirazResimSergisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DSG_marekbrzozowskisergisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DSG_marekbrzozowskisergisi.Designer.cs">
+      <DependentUpon>DSG_marekbrzozowskisergisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DSG_suluboyasergisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DSG_suluboyasergisi.Designer.cs">
+      <DependentUpon>DSG_suluboyasergisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DSG_yazkarmasergisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DSG_yazkarmasergisi.Designer.cs">
+      <DependentUpon>DSG_yazkarmasergisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DSG_yolculuğumkendime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DSG_yolculuğumkendime.Designer.cs">
+      <DependentUpon>DSG_yolculuğumkendime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GallerySoyut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GallerySoyut.Designer.cs">
+      <DependentUpon>GallerySoyut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GallerySoyutHakkında.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GallerySoyutHakkında.Designer.cs">
+      <DependentUpon>GallerySoyutHakkında.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GallerySoyutSantçılar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GallerySoyutSantçılar.Designer.cs">
+      <DependentUpon>GallerySoyutSantçılar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GallerySoyutSergileri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GallerySoyutSergileri.Designer.cs">
+      <DependentUpon>GallerySoyutSergileri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GS_artcontactsergisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GS_artcontactsergisi.Designer.cs">
+      <DependentUpon>GS_artcontactsergisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GS_düşyanıkları.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GS_düşyanıkları.Designer.cs">
+      <DependentUpon>GS_düşyanıkları.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GS_Figüryorumsergisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GS_Figüryorumsergisi.Designer.cs">
+      <DependentUpon>GS_Figüryorumsergisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sanatgalerısıDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sanatgalerısıDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="sanatgalerısıDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sanatgalerısıDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TamSanatGaleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TamSanatGaleri.Designer.cs">
+      <DependentUpon>TamSanatGaleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TamSanatHakkında.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TamSanatHakkında.Designer.cs">
+      <DependentUpon>TamSanatHakkında.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TamSanatSergileri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TamSanatSergileri.Designer.cs">
+      <DependentUpon>TamSanatSergileri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TS_19mayıssergisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TS_19mayıssergisi.Designer.cs">
+      <DependentUpon>TS_19mayıssergisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TS_atasanatgalersi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TS_atasanatgalersi.Designer.cs">
+      <DependentUpon>TS_atasanatgalersi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TS_dijitalsergi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TS_dijitalsergi.Designer.cs">
+      <DependentUpon>TS_dijitalsergi.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Anasayfa.resx">
+      <DependentUpon>Anasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ArtnivoGaleri.resx">
+      <DependentUpon>ArtnivoGaleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Artnivogalerihakkımızda.resx">
+      <DependentUpon>Artnivogalerihakkımızda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Artnivogalerisanatçıları.resx">
+      <DependentUpon>Artnivogalerisanatçıları.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Artnivogalerisergileri.resx">
+      <DependentUpon>Artnivogalerisergileri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ar_enstalasyon.resx">
+      <DependentUpon>Ar_enstalasyon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ar_Heykelsergisi.resx">
+      <DependentUpon>Ar_Heykelsergisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ar_insanlaştırma.resx">
+      <DependentUpon>Ar_insanlaştırma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ar_sevinçsizkahkaha.resx">
+      <DependentUpon>Ar_sevinçsizkahkaha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DokuSanatGalerisi.resx">
+      <DependentUpon>DokuSanatGalerisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DokuSanatGalerisiHakkında.resx">
+      <DependentUpon>DokuSanatGalerisiHakkında.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DokuSanatGalerisiSanatçıları.resx">
+      <DependentUpon>DokuSanatGalerisiSanatçıları.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DokuSanatGalerisiSergileri.resx">
+      <DependentUpon>DokuSanatGalerisiSergileri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DSG_KeremKirazResimSergisi.resx">
+      <DependentUpon>DSG_KeremKirazResimSergisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DSG_marekbrzozowskisergisi.resx">
+      <DependentUpon>DSG_marekbrzozowskisergisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DSG_suluboyasergisi.resx">
+      <DependentUpon>DSG_suluboyasergisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DSG_yazkarmasergisi.resx">
+      <DependentUpon>DSG_yazkarmasergisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DSG_yolculuğumkendime.resx">
+      <DependentUpon>DSG_yolculuğumkendime.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GallerySoyut.resx">
+      <DependentUpon>GallerySoyut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GallerySoyutHakkında.resx">
+      <DependentUpon>GallerySoyutHakkında.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GallerySoyutSantçılar.resx">
+      <DependentUpon>GallerySoyutSantçılar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GallerySoyutSergileri.resx">
+      <DependentUpon>GallerySoyutSergileri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GS_artcontactsergisi.resx">
+      <DependentUpon>GS_artcontactsergisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GS_düşyanıkları.resx">
+      <DependentUpon>GS_düşyanıkları.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GS_Figüryorumsergisi.resx">
+      <DependentUpon>GS_Figüryorumsergisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="TamSanatGaleri.resx">
+      <DependentUpon>TamSanatGaleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TamSanatHakkında.resx">
+      <DependentUpon>TamSanatHakkında.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TamSanatSergileri.resx">
+      <DependentUpon>TamSanatSergileri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TS_19mayıssergisi.resx">
+      <DependentUpon>TS_19mayıssergisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TS_atasanatgalersi.resx">
+      <DependentUpon>TS_atasanatgalersi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TS_dijitalsergi.resx">
+      <DependentUpon>TS_dijitalsergi.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="sanatgalerısıDataSet.xsc">
+      <DependentUpon>sanatgalerısıDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="sanatgalerısıDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>sanatgalerısıDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="sanatgalerısıDataSet.xss">
+      <DependentUpon>sanatgalerısıDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="sanatgalerısıDataSet1.xsc">
+      <DependentUpon>sanatgalerısıDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="sanatgalerısıDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>sanatgalerısıDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="sanatgalerısıDataSet1.xss">
+      <DependentUpon>sanatgalerısıDataSet1.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Properties\picture\ahmet.PNG" />
+    <None Include="Resources\ya1712-710.jpg" />
+    <None Include="Resources\atilla-akcagoz_1622052296.jpg" />
+    <None Include="Resources\agit-ugur-uludag-2019-kapak.jpg" />
+    <None Include="Resources\407.jpg" />
+    <None Include="Resources\5c90b8e501992.jpg" />
+    <None Include="Resources\5c90b39d4f4c3.jpg" />
+    <None Include="Resources\ahmet.PNG" />
+    <None Include="Resources\Image1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

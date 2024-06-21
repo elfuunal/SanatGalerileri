@@ -1,0 +1,972 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\dsg_yazkarmasergisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:dsg_yazkarmasergisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\dsg_yazkarmasergisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:dsg_yazkarmasergisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\dokusanatgalerisisergileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:dokusanatgalerisisergileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\dokusanatgalerisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:dokusanatgalerisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\dokusanatgalerisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:dokusanatgalerisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\artnivogalerisergileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:artnivogalerisergileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\artnivogalerisergileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:artnivogalerisergileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\gallerysoyut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:gallerysoyut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\gallerysoyutsant\u00E7\u0131lar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:gallerysoyutsant\u00E7\u0131lar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\gallerysoyuthakk\u0131nda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:gallerysoyuthakk\u0131nda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\tamsanatgaleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:tamsanatgaleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\tamsanatgaleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:tamsanatgaleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\artnivogaleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:artnivogaleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\artnivogaleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:artnivogaleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\gallerysoyut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:gallerysoyut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\artnivogalerisanat\u00E7\u0131lar\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:artnivogalerisanat\u00E7\u0131lar\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\artnivogalerisanat\u00E7\u0131lar\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:artnivogalerisanat\u00E7\u0131lar\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\dokusanatgalerisisanat\u00E7\u0131lar\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:dokusanatgalerisisanat\u00E7\u0131lar\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\dokusanatgalerisisanat\u00E7\u0131lar\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:dokusanatgalerisisanat\u00E7\u0131lar\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\artnivogalerihakk\u0131m\u0131zda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:artnivogalerihakk\u0131m\u0131zda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\artnivogalerihakk\u0131m\u0131zda.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:artnivogalerihakk\u0131m\u0131zda.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\artnivogalerihakk\u0131m\u0131zda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:artnivogalerihakk\u0131m\u0131zda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\dokusanatgalerisihakk\u0131nda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:dokusanatgalerisihakk\u0131nda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\dokusanatgalerisihakk\u0131nda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:dokusanatgalerisihakk\u0131nda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\tamsanathakk\u0131nda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:tamsanathakk\u0131nda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\ar_sevin\u00E7sizkahkaha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:ar_sevin\u00E7sizkahkaha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\ar_sevin\u00E7sizkahkaha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:ar_sevin\u00E7sizkahkaha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\ar_insanla\u015Ft\u0131rma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:ar_insanla\u015Ft\u0131rma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\ar_insanla\u015Ft\u0131rma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:ar_insanla\u015Ft\u0131rma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\ar_heykelsergisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:ar_heykelsergisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\ar_heykelsergisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:ar_heykelsergisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\ar_enstalasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:ar_enstalasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\ar_enstalasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:ar_enstalasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\gs_artcontactsergisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:gs_artcontactsergisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\ts_19may\u0131ssergisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:ts_19may\u0131ssergisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\ts_atasanatgalersi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:ts_atasanatgalersi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\ts_dijitalsergi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:ts_dijitalsergi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\tamsanatsergileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:tamsanatsergileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\tamsanathakk\u0131nda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:tamsanathakk\u0131nda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\gallerysoyuthakk\u0131nda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:gallerysoyuthakk\u0131nda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\ts_19may\u0131ssergisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:ts_19may\u0131ssergisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\ts_atasanatgalersi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:ts_atasanatgalersi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|c:\\users\\irem_\\source\\repos\\sanatgalerileriy\u00F6netim\\sanatgalerisi\\gs_fig\u00FCryorumsergisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:gs_fig\u00FCryorumsergisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\tamsanatsergileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:tamsanatsergileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\gallerysoyutsergileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:gallerysoyutsergileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\gallerysoyutsergileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:gallerysoyutsergileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\anasayfa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:anasayfa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\dsg_marekbrzozowskisergisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:dsg_marekbrzozowskisergisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\dsg_yolculu\u011Fumkendime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:dsg_yolculu\u011Fumkendime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\dsg_suluboyasergisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:dsg_suluboyasergisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\dokusanatgalerisisergileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:dokusanatgalerisisergileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\dsg_keremkirazresimsergisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:dsg_keremkirazresimsergisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\sanatgaler\u0131s\u0131dataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:sanatgaler\u0131s\u0131dataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\dokusanatgalerisi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E3A576-355D-4F1B-B44B-D90C471D718F}|SanatGalerileriY\u00F6netim.csproj|solutionrelative:dokusanatgalerisi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 178,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ArtnivoGaleri.cs",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\ArtnivoGaleri.cs",
+              "RelativeDocumentMoniker": "ArtnivoGaleri.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\ArtnivoGaleri.cs",
+              "RelativeToolTip": "ArtnivoGaleri.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAArwCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:20:40.75Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DSG_yazkarmasergisi.cs",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\DSG_yazkarmasergisi.cs",
+              "RelativeDocumentMoniker": "DSG_yazkarmasergisi.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\DSG_yazkarmasergisi.cs",
+              "RelativeToolTip": "DSG_yazkarmasergisi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:26:32.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GallerySoyut.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\GallerySoyut.cs",
+              "RelativeDocumentMoniker": "GallerySoyut.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\GallerySoyut.cs [Design]",
+              "RelativeToolTip": "GallerySoyut.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:16:34.906Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GallerySoyutSant\u00E7\u0131lar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\GallerySoyutSant\u00E7\u0131lar.cs",
+              "RelativeDocumentMoniker": "GallerySoyutSant\u00E7\u0131lar.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\GallerySoyutSant\u00E7\u0131lar.cs [Design]",
+              "RelativeToolTip": "GallerySoyutSant\u00E7\u0131lar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:16:33.721Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Artnivogalerisanat\u00E7\u0131lar\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Artnivogalerisanat\u00E7\u0131lar\u0131.cs",
+              "RelativeDocumentMoniker": "Artnivogalerisanat\u00E7\u0131lar\u0131.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Artnivogalerisanat\u00E7\u0131lar\u0131.cs",
+              "RelativeToolTip": "Artnivogalerisanat\u00E7\u0131lar\u0131.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:58:46.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DokuSanatGalerisiSanat\u00E7\u0131lar\u0131.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\DokuSanatGalerisiSanat\u00E7\u0131lar\u0131.cs",
+              "RelativeDocumentMoniker": "DokuSanatGalerisiSanat\u00E7\u0131lar\u0131.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\DokuSanatGalerisiSanat\u00E7\u0131lar\u0131.cs [Design]",
+              "RelativeToolTip": "DokuSanatGalerisiSanat\u00E7\u0131lar\u0131.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:55:09.066Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Artnivogalerihakk\u0131m\u0131zda.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Artnivogalerihakk\u0131m\u0131zda.Designer.cs",
+              "RelativeDocumentMoniker": "Artnivogalerihakk\u0131m\u0131zda.Designer.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Artnivogalerihakk\u0131m\u0131zda.Designer.cs",
+              "RelativeToolTip": "Artnivogalerihakk\u0131m\u0131zda.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:52:26.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Artnivogalerihakk\u0131m\u0131zda.cs",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Artnivogalerihakk\u0131m\u0131zda.cs",
+              "RelativeDocumentMoniker": "Artnivogalerihakk\u0131m\u0131zda.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Artnivogalerihakk\u0131m\u0131zda.cs",
+              "RelativeToolTip": "Artnivogalerihakk\u0131m\u0131zda.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAUwDgAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:51:16.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DokuSanatGalerisiHakk\u0131nda.cs",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\DokuSanatGalerisiHakk\u0131nda.cs",
+              "RelativeDocumentMoniker": "DokuSanatGalerisiHakk\u0131nda.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\DokuSanatGalerisiHakk\u0131nda.cs",
+              "RelativeToolTip": "DokuSanatGalerisiHakk\u0131nda.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAADgv1AAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:51:03.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Ar_sevin\u00E7sizkahkaha.cs",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Ar_sevin\u00E7sizkahkaha.cs",
+              "RelativeDocumentMoniker": "Ar_sevin\u00E7sizkahkaha.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Ar_sevin\u00E7sizkahkaha.cs",
+              "RelativeToolTip": "Ar_sevin\u00E7sizkahkaha.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAADgv0MAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:37:51.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Ar_insanla\u015Ft\u0131rma.cs",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Ar_insanla\u015Ft\u0131rma.cs",
+              "RelativeDocumentMoniker": "Ar_insanla\u015Ft\u0131rma.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Ar_insanla\u015Ft\u0131rma.cs",
+              "RelativeToolTip": "Ar_insanla\u015Ft\u0131rma.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIAwwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:19:21.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Ar_enstalasyon.cs",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Ar_enstalasyon.cs",
+              "RelativeDocumentMoniker": "Ar_enstalasyon.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Ar_enstalasyon.cs",
+              "RelativeToolTip": "Ar_enstalasyon.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwDwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:55:52.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Ar_Heykelsergisi.cs",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Ar_Heykelsergisi.cs",
+              "RelativeDocumentMoniker": "Ar_Heykelsergisi.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Ar_Heykelsergisi.cs",
+              "RelativeToolTip": "Ar_Heykelsergisi.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAADgvzIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:50:17.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Artnivogalerisergileri.cs",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Artnivogalerisergileri.cs",
+              "RelativeDocumentMoniker": "Artnivogalerisergileri.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Artnivogalerisergileri.cs",
+              "RelativeToolTip": "Artnivogalerisergileri.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIA+wBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:17:19.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Ar_enstalasyon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Ar_enstalasyon.cs",
+              "RelativeDocumentMoniker": "Ar_enstalasyon.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Ar_enstalasyon.cs [Design]",
+              "RelativeToolTip": "Ar_enstalasyon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:13:49.435Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Ar_sevin\u00E7sizkahkaha.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Ar_sevin\u00E7sizkahkaha.cs",
+              "RelativeDocumentMoniker": "Ar_sevin\u00E7sizkahkaha.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Ar_sevin\u00E7sizkahkaha.cs [Design]",
+              "RelativeToolTip": "Ar_sevin\u00E7sizkahkaha.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:13:32.796Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Ar_insanla\u015Ft\u0131rma.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Ar_insanla\u015Ft\u0131rma.cs",
+              "RelativeDocumentMoniker": "Ar_insanla\u015Ft\u0131rma.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Ar_insanla\u015Ft\u0131rma.cs [Design]",
+              "RelativeToolTip": "Ar_insanla\u015Ft\u0131rma.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:13:11.916Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Ar_Heykelsergisi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Ar_Heykelsergisi.cs",
+              "RelativeDocumentMoniker": "Ar_Heykelsergisi.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Ar_Heykelsergisi.cs [Design]",
+              "RelativeToolTip": "Ar_Heykelsergisi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:12:55.744Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Artnivogalerihakk\u0131m\u0131zda.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Artnivogalerihakk\u0131m\u0131zda.cs",
+              "RelativeDocumentMoniker": "Artnivogalerihakk\u0131m\u0131zda.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Artnivogalerihakk\u0131m\u0131zda.cs [Design]",
+              "RelativeToolTip": "Artnivogalerihakk\u0131m\u0131zda.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:03:26.57Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Artnivogalerisanat\u00E7\u0131lar\u0131.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Artnivogalerisanat\u00E7\u0131lar\u0131.cs",
+              "RelativeDocumentMoniker": "Artnivogalerisanat\u00E7\u0131lar\u0131.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Artnivogalerisanat\u00E7\u0131lar\u0131.cs [Design]",
+              "RelativeToolTip": "Artnivogalerisanat\u00E7\u0131lar\u0131.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:03:14.214Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Artnivogalerisergileri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Artnivogalerisergileri.cs",
+              "RelativeDocumentMoniker": "Artnivogalerisergileri.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Artnivogalerisergileri.cs [Design]",
+              "RelativeToolTip": "Artnivogalerisergileri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:03:02.205Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DokuSanatGalerisi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\DokuSanatGalerisi.cs",
+              "RelativeDocumentMoniker": "DokuSanatGalerisi.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\DokuSanatGalerisi.cs [Design]",
+              "RelativeToolTip": "DokuSanatGalerisi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:00:19.325Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ArtnivoGaleri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\ArtnivoGaleri.cs",
+              "RelativeDocumentMoniker": "ArtnivoGaleri.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\ArtnivoGaleri.cs [Design]",
+              "RelativeToolTip": "ArtnivoGaleri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:53:19.27Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TamSanatGaleri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\TamSanatGaleri.cs",
+              "RelativeDocumentMoniker": "TamSanatGaleri.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\TamSanatGaleri.cs [Design]",
+              "RelativeToolTip": "TamSanatGaleri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:43:25.229Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TamSanatHakk\u0131nda.cs",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\TamSanatHakk\u0131nda.cs",
+              "RelativeDocumentMoniker": "TamSanatHakk\u0131nda.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\TamSanatHakk\u0131nda.cs",
+              "RelativeToolTip": "TamSanatHakk\u0131nda.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDYAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:35:19.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GallerySoyutHakk\u0131nda.cs",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\GallerySoyutHakk\u0131nda.cs",
+              "RelativeDocumentMoniker": "GallerySoyutHakk\u0131nda.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\GallerySoyutHakk\u0131nda.cs",
+              "RelativeToolTip": "GallerySoyutHakk\u0131nda.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAMwBUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:35:11.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "TS_19may\u0131ssergisi.cs",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\TS_19may\u0131ssergisi.cs",
+              "RelativeDocumentMoniker": "TS_19may\u0131ssergisi.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\TS_19may\u0131ssergisi.cs",
+              "RelativeToolTip": "TS_19may\u0131ssergisi.cs",
+              "ViewState": "AQIAAAwBAAAAAAAAAAAIwB0BAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:26:14.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TS_atasanatgalersi.cs",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\TS_atasanatgalersi.cs",
+              "RelativeDocumentMoniker": "TS_atasanatgalersi.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\TS_atasanatgalersi.cs",
+              "RelativeToolTip": "TS_atasanatgalersi.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAEwDcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:08:19.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GS_Fig\u00FCryorumsergisi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\GS_Fig\u00FCryorumsergisi.cs",
+              "RelativeDocumentMoniker": "GS_Fig\u00FCryorumsergisi.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\GS_Fig\u00FCryorumsergisi.cs [Design]",
+              "RelativeToolTip": "GS_Fig\u00FCryorumsergisi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:15:30.907Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TS_dijitalsergi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\TS_dijitalsergi.cs",
+              "RelativeDocumentMoniker": "TS_dijitalsergi.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\TS_dijitalsergi.cs [Design]",
+              "RelativeToolTip": "TS_dijitalsergi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:10:07.702Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "GallerySoyutSergileri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\GallerySoyutSergileri.cs",
+              "RelativeDocumentMoniker": "GallerySoyutSergileri.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\GallerySoyutSergileri.cs [Design]",
+              "RelativeToolTip": "GallerySoyutSergileri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:16:06.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TamSanatSergileri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\TamSanatSergileri.cs",
+              "RelativeDocumentMoniker": "TamSanatSergileri.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\TamSanatSergileri.cs [Design]",
+              "RelativeToolTip": "TamSanatSergileri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:59:11.644Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "TamSanatSergileri.cs",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\TamSanatSergileri.cs",
+              "RelativeDocumentMoniker": "TamSanatSergileri.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\TamSanatSergileri.cs",
+              "RelativeToolTip": "TamSanatSergileri.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAEwB0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T23:15:35.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TS_19may\u0131ssergisi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\TS_19may\u0131ssergisi.cs",
+              "RelativeDocumentMoniker": "TS_19may\u0131ssergisi.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\TS_19may\u0131ssergisi.cs [Design]",
+              "RelativeToolTip": "TS_19may\u0131ssergisi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T23:15:06.627Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TS_atasanatgalersi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\TS_atasanatgalersi.cs",
+              "RelativeDocumentMoniker": "TS_atasanatgalersi.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\TS_atasanatgalersi.cs [Design]",
+              "RelativeToolTip": "TS_atasanatgalersi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T23:14:51.275Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GS_artcontactsergisi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\GS_artcontactsergisi.cs",
+              "RelativeDocumentMoniker": "GS_artcontactsergisi.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\GS_artcontactsergisi.cs [Design]",
+              "RelativeToolTip": "GS_artcontactsergisi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T23:02:37.686Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TamSanatGaleri.cs",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\TamSanatGaleri.cs",
+              "RelativeDocumentMoniker": "TamSanatGaleri.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\TamSanatGaleri.cs",
+              "RelativeToolTip": "TamSanatGaleri.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAjwCgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:59:49.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TamSanatHakk\u0131nda.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\TamSanatHakk\u0131nda.cs",
+              "RelativeDocumentMoniker": "TamSanatHakk\u0131nda.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\TamSanatHakk\u0131nda.cs [Design]",
+              "RelativeToolTip": "TamSanatHakk\u0131nda.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:59:25.741Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DokuSanatGalerisiSanat\u00E7\u0131lar\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\DokuSanatGalerisiSanat\u00E7\u0131lar\u0131.cs",
+              "RelativeDocumentMoniker": "DokuSanatGalerisiSanat\u00E7\u0131lar\u0131.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\DokuSanatGalerisiSanat\u00E7\u0131lar\u0131.cs",
+              "RelativeToolTip": "DokuSanatGalerisiSanat\u00E7\u0131lar\u0131.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAArwGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:26:57.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "GallerySoyutSergileri.cs",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\GallerySoyutSergileri.cs",
+              "RelativeDocumentMoniker": "GallerySoyutSergileri.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\GallerySoyutSergileri.cs",
+              "RelativeToolTip": "GallerySoyutSergileri.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAArwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T21:37:11.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GallerySoyut.cs",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\GallerySoyut.cs",
+              "RelativeDocumentMoniker": "GallerySoyut.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\GallerySoyut.cs",
+              "RelativeToolTip": "GallerySoyut.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAArwCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:16:54.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GallerySoyutHakk\u0131nda.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\GallerySoyutHakk\u0131nda.cs",
+              "RelativeDocumentMoniker": "GallerySoyutHakk\u0131nda.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\GallerySoyutHakk\u0131nda.cs [Design]",
+              "RelativeToolTip": "GallerySoyutHakk\u0131nda.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:16:32.008Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DSG_KeremKirazResimSergisi.cs",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\DSG_KeremKirazResimSergisi.cs",
+              "RelativeDocumentMoniker": "DSG_KeremKirazResimSergisi.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\DSG_KeremKirazResimSergisi.cs",
+              "RelativeToolTip": "DSG_KeremKirazResimSergisi.cs",
+              "ViewState": "AQIAAPQAAAAAAAAAAADwvwgBAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:43:14.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DSG_yazkarmasergisi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\DSG_yazkarmasergisi.cs",
+              "RelativeDocumentMoniker": "DSG_yazkarmasergisi.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\DSG_yazkarmasergisi.cs [Design]",
+              "RelativeToolTip": "DSG_yazkarmasergisi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:33:42.83Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DSG_suluboyasergisi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\DSG_suluboyasergisi.cs",
+              "RelativeDocumentMoniker": "DSG_suluboyasergisi.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\DSG_suluboyasergisi.cs [Design]",
+              "RelativeToolTip": "DSG_suluboyasergisi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:33:41.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DSG_marekbrzozowskisergisi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\DSG_marekbrzozowskisergisi.cs",
+              "RelativeDocumentMoniker": "DSG_marekbrzozowskisergisi.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\DSG_marekbrzozowskisergisi.cs [Design]",
+              "RelativeToolTip": "DSG_marekbrzozowskisergisi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:32:20.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DSG_yolculu\u011Fumkendime.cs",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\DSG_yolculu\u011Fumkendime.cs",
+              "RelativeDocumentMoniker": "DSG_yolculu\u011Fumkendime.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\DSG_yolculu\u011Fumkendime.cs",
+              "RelativeToolTip": "DSG_yolculu\u011Fumkendime.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAawDgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:22:44.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "sanatgaler\u0131s\u0131DataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\sanatgaler\u0131s\u0131DataSet.xsd",
+              "RelativeDocumentMoniker": "sanatgaler\u0131s\u0131DataSet.xsd",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\sanatgaler\u0131s\u0131DataSet.xsd",
+              "RelativeToolTip": "sanatgaler\u0131s\u0131DataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-06-20T12:25:38.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-20T11:26:05.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Anasayfa.cs",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Anasayfa.cs",
+              "RelativeDocumentMoniker": "Anasayfa.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Anasayfa.cs",
+              "RelativeToolTip": "Anasayfa.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T21:00:01.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DokuSanatGalerisiHakk\u0131nda.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\DokuSanatGalerisiHakk\u0131nda.cs",
+              "RelativeDocumentMoniker": "DokuSanatGalerisiHakk\u0131nda.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\DokuSanatGalerisiHakk\u0131nda.cs [Design]",
+              "RelativeToolTip": "DokuSanatGalerisiHakk\u0131nda.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T16:23:44.644Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DokuSanatGalerisiSergileri.cs",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\DokuSanatGalerisiSergileri.cs",
+              "RelativeDocumentMoniker": "DokuSanatGalerisiSergileri.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\DokuSanatGalerisiSergileri.cs",
+              "RelativeToolTip": "DokuSanatGalerisiSergileri.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T23:03:32.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DokuSanatGalerisiSergileri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\DokuSanatGalerisiSergileri.cs",
+              "RelativeDocumentMoniker": "DokuSanatGalerisiSergileri.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\DokuSanatGalerisiSergileri.cs [Design]",
+              "RelativeToolTip": "DokuSanatGalerisiSergileri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T23:03:18.846Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DokuSanatGalerisi.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\DokuSanatGalerisi.Designer.cs",
+              "RelativeDocumentMoniker": "DokuSanatGalerisi.Designer.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\DokuSanatGalerisi.Designer.cs",
+              "RelativeToolTip": "DokuSanatGalerisi.Designer.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAEwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T22:42:55.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DokuSanatGalerisi.cs",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\DokuSanatGalerisi.cs",
+              "RelativeDocumentMoniker": "DokuSanatGalerisi.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\DokuSanatGalerisi.cs",
+              "RelativeToolTip": "DokuSanatGalerisi.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAIA+wCoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T16:25:00.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:54:59.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Anasayfa.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Anasayfa.Designer.cs",
+              "RelativeDocumentMoniker": "Anasayfa.Designer.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Anasayfa.Designer.cs",
+              "RelativeToolTip": "Anasayfa.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T21:00:08.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Anasayfa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Anasayfa.cs",
+              "RelativeDocumentMoniker": "Anasayfa.cs",
+              "ToolTip": "C:\\Users\\irem_\\source\\repos\\SanatGalerileriY\u00F6netim\\SanatGalerisi\\Anasayfa.cs [Design]",
+              "RelativeToolTip": "Anasayfa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T20:50:09.998Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
